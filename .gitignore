@@ -1,0 +1,16 @@
+/.idea/
+/.gradle/
+/app/src/main/gen/
+/local.properties
+.gradle/
+TauPsi.iml
+app/src/androidTest/androidTest.iml
+app/src/inmemory/inmemory.iml
+app/src/live/live.iml
+app/src/main/main.iml
+app/src/test/test.iml
+build/
+gradle/
+gradlew
+gradlew.bat
+local.properties
